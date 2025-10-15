@@ -36,7 +36,7 @@ The database script is located in the /db folder:
 `name: SQLdatabase` 
 
 ## 📄 Class diagram
-![DC(./docs/MODELO%20RELACIONAL.png)  
+![DC](./docs/MODELO%20RELACIONAL.png)  
 
 ## 📄 Usage class diagram
 ![DCU](./docs/MODELO%20RELACIONAL.png)  
