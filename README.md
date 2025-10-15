@@ -36,10 +36,10 @@ The database script is located in the /db folder:
 `name: SQLdatabase` 
 
 ## 📄 Class diagram
-![DC](./docs/MODELO%20RELACIONAL.png)  
+![DC](src/main/java/com/codeup/libronova/diagrams/DCU.webp]
 
 ## 📄 Usage class diagram
-![DCU](./docs/MODELO%20RELACIONAL.png)  
+![DCU](src/main/java/com/codeup/libronova/diagrams/DIAGRAM.png)  
 
 ## 👤 Developer Info
 **Name:** Melanie Rivera Girón  
