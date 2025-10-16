@@ -36,7 +36,7 @@ The database script is located in the /db folder:
 `name: SQLdatabase` 
 
 ## 📄 Class diagram
-![DC](src/main/java/com/codeup/libronova/diagrams/DCU.webp)
+![DC](src/main/java/com/codeup/libronova/diagrams/DCU.png)
 
 ## 📄 Usage class diagram
 ![DCU](src/main/java/com/codeup/libronova/diagrams/DIAGRAM.png)  
