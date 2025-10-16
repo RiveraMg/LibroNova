@@ -35,6 +35,14 @@ git clone https://github.com/RiveraMg/LibroNova.git
 The database script is located in the /db folder:
 `name: SQLdatabase` 
 
+
+## Credentiales to role
+Rol : admin 
+username: admin - password: admin123
+
+rol: assistent
+username: jonh - password: jonh123
+
 ## 📄 Class diagram
 ![DC](src/main/java/com/codeup/libronova/diagrams/DCU.png)
 
