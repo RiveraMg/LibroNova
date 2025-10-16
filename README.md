@@ -44,10 +44,12 @@ rol: assistent
 username: jonh - password: jonh123
 
 ## 📄 Class diagram
-![DC](src/main/java/com/codeup/libronova/diagrams/DCU.png)
+
+![DCU](src/main/java/com/codeup/libronova/diagrams/DIAGRAM.png)  
+
 
 ## 📄 Usage class diagram
-![DCU](src/main/java/com/codeup/libronova/diagrams/DIAGRAM.png)  
+![DC](src/main/java/com/codeup/libronova/diagrams/DCU.png)
 
 ## 👤 Developer Info
 **Name:** Melanie Rivera Girón  
